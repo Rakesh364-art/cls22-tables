@@ -1,0 +1,78 @@
+table
+{
+    border: 2px solid red;
+    width: 700px;
+    border-collapse: collapse;
+     
+}
+ 
+     
+
+tr td{
+    border: 1px solid black;
+    text-align: center;
+}
+th{
+    border: 1px solid green;
+}
+.mainHeading{
+    text-align: center;
+
+}
+.heading2{
+    text-align: center;
+}
+.image{
+    width: 200px;
+    position: relative;
+    left: 750px;
+    bottom: 250px;
+    
+}
+.emblem{
+    width: 100px;
+    position: relative;
+    bottom: 470px;
+    right: 150px;
+
+     
+     
+}
+.info{
+    position: relative;
+    left: 50px;
+}
+.tableDiv{
+    position: relative;
+    bottom: 200px;
+    left: 50px;
+
+}
+.sign1{
+    position: relative;
+    bottom: 100px;
+    left: 50px;
+     
+}
+ .sign2{
+    position: relative;
+    bottom: 140px;
+    left: 750px;
+ }
+
+.mainDiv{
+    background-color: pink;
+    border: 5px solid red;
+    width: 1000px;
+    height: 700PX;
+   
+     
+}
+ 
+
+ 
+     
+
+
+ 
+      
